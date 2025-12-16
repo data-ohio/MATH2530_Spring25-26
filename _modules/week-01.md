@@ -11,10 +11,10 @@ days:
     ? '[1.2. Collecting Data](https://data-ohio.github.io/introductory-data-science/1/2/1_2_acquire_data.html)'
 - date: 2026-01-15
   events:
-    ? '**Lab**{: .label .label-lab } [Lab 1: Expressions]'
+    ? '**Lab**{: .label .label-lab } Lab 1: Expressions'
 - date: 2026-01-16
   events:
     ? '[1.3. Organizing and Standardizing Data](https://data-ohio.github.io/introductory-data-science/1/3/1_3_organize_data.html)'
     ? '[1.3.1. Introduction to Python](https://data-ohio.github.io/introductory-data-science/1/3/intro_python.html)'
-    ? '**Homework**{: .label .label-hw } [Homework 1: Types and Sources of Data and Python Expressions]'
+    ? '**Homework**{: .label .label-hw } Homework 1: Types and Sources of Data and Python Expressions'
 ---
