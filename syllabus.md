@@ -50,7 +50,7 @@ Tests
 : There will be 4 mid-term tests, one after each chapter in the textbook. Tests are cumulative. 
 
 Final Exam
-: The final exam is on Monday, April 28, 10:10 AM to 12:10 PM.
+: The final exam is on Wednesday, April 29, 8:00 AM to 10:00 AM.
       
 Grade
 : Your grade is based on 
