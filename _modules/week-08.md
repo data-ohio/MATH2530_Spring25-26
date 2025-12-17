@@ -15,6 +15,6 @@ days:
 - date: 2026-03-06
   events:
     ? '**Homework**{: .label .label-hw } Homework 8: Probability, Simulation, and Estimation'
-    ? '(March 10-14 is Spring Break.)'
+    ? '(March 09-13 is Spring Break.)'
 ---
 
