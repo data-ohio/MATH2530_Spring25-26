@@ -36,13 +36,13 @@ Computing Environment
 : We will be using the [Python](https://www.python.org/) programming language within [Jupyter Notebooks](https://jupyter.org/), run in the [Ohio Supercomputer Center](https://class.osc.edu).
 
 Attendance
-: Attendance counts for a small part of your grade. Your attendance record will be available in Blackboard.
+: Attendance counts for a small part of your grade. Your attendance record will be available in Canvas.
 
 Homework
 : There is a homework assignment due each week. Late homework is penalized 5% per day (or part thereof) late.
 
 Labs
-: Except in weeks in which there are tests, the Tuesday lab meeting will be used for (computer) laboratory assignments, to be completed during that time. 
+: Except in weeks in which there are tests, the Thursday lab meeting will be used for (computer) laboratory assignments, to be completed during that time. 
 If you do not attend the lab meeting, then your lab assignment will be counted as 1 day late, even if it is turned in on time.
 Late lab assignments are penalized 5% per day (or part thereof) late.
 
